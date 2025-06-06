@@ -1,0 +1,10 @@
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\bin\Debug\Tic-Tac-Toe Game_Project.exe.config
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\bin\Debug\Tic-Tac-Toe Game_Project.exe
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\bin\Debug\Tic-Tac-Toe Game_Project.pdb
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic-Tac-Toe Game_Project.csproj.AssemblyReference.cache
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic_Tac_Toe_Game_Project.Form1.resources
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic_Tac_Toe_Game_Project.Properties.Resources.resources
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic-Tac-Toe Game_Project.csproj.GenerateResource.cache
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic-Tac-Toe Game_Project.csproj.CoreCompileInputs.cache
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic-Tac-Toe Game_Project.exe
+C:\Courses\Tic-Tac-Toe Game_Project\Tic-Tac-Toe Game_Project\obj\Debug\Tic-Tac-Toe Game_Project.pdb
